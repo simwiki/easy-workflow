@@ -1,0 +1,36 @@
+name: Auto-Updating Repository Demo
+
+on:
+  # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+  schedule:
+    # The shortest interval you can run scheduled workflows is once every 5 minutes.
+    # Note: The schedule event can be delayed during periods of high loads of GitHub Actions workflow runs. 
+    # High load times include the start of every hour. 
+    # To decrease the chance of delay, schedule your workflow to run at a different time of the hour.
+    # Every 20 minutes.
+    - cron: '*/20 * * * *'
+    # At the beginning of every day.
+    # - cron: "0 0 * * *"
+
+# on: [push]
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        # https://github.com/actions/checkout/tree/v3.0.2
+        uses: actions/checkout@v3
+      - name: Modify date and time
+        run: |
+          date > README.md
+          echo -e "### 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
+          cat README.md
+      - name: Push to repository
+        run: |
+          git config --global user.name "xk_wang"
+          git config --global user.email "xk_wang@outlook.com"
+          now=$(date)
+          git add -A
+          git commit -m "[Bot] auto update time with $now"
+          git push
