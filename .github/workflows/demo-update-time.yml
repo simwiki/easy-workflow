@@ -18,15 +18,17 @@ jobs:
   report:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
+      - name: check out repo code
         # https://github.com/actions/checkout/tree/v3.0.2
         uses: actions/checkout@v3
-      - name: Modify date and time
+      - name: modify date and time
         run: |
-          date > README.md
+          echo "## Auto Sync Time" > README.md
+          date >> README.md
           echo -e "### 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
+          echo -e "## Star History \n[![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)" >> README.md
           cat README.md
-      - name: Push to repository
+      - name: add commit and push changes
         run: |
           git config --global user.name "xk_wang"
           git config --global user.email "xk_wang@outlook.com"
