@@ -8,9 +8,9 @@ on:
     # High load times include the start of every hour. 
     # To decrease the chance of delay, schedule your workflow to run at a different time of the hour.
     # Every 20 minutes.
-    - cron: '*/20 * * * *'
-    # At the beginning of every day.
-    # - cron: "0 0 * * *"
+    # - cron: '*/20 * * * *'
+    # triggers the workflow every day at 9:18 UTC
+    - cron: "18 9 * * *"
 
 # on: [push]
 
