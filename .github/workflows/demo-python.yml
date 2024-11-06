@@ -1,0 +1,42 @@
+name: Auto-Running Python Demo
+
+# on:
+#     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+#     schedule:
+#       # The shortest interval you can run scheduled workflows is once every 5 minutes.
+#       # Note: The schedule event can be delayed during periods of high loads of GitHub Actions workflow runs. 
+#       # High load times include the start of every hour. 
+#       # To decrease the chance of delay, schedule your workflow to run at a different time of the hour.
+#       # Every 20 minutes.
+#       # - cron: '*/20 * * * *'
+#       # triggers the workflow every day at 9:18 UTC
+#       - cron: "18 9 * * *"
+
+on: [push]
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+        - name: check out repo code
+          uses: actions/checkout@v4
+
+        - name: Set up Python
+          uses: actions/setup-python@v5
+          with:
+                python-version: '3.12'
+                cache: 'pip' # caching pip dependencies
+
+        - name: Display Python version
+          run: python -c "import sys; print(sys.version)"
+
+        - name: Install dependencies
+          run: |
+           python -m pip install --upgrade pip
+           pip install -r requirements.txt
+
+        # - name: Install Python Package
+        #   # - run: pip install -r requirements.txt
+        #   run: pip install requests pandas bs4 re
+        - run: python src/run.py
+
