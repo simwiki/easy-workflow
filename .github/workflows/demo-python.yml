@@ -35,8 +35,12 @@ jobs:
            python -m pip install --upgrade pip
            pip install -r requirements.txt
 
-        # - name: Install Python Package
-        #   # - run: pip install -r requirements.txt
-        #   run: pip install requests pandas bs4 re
-        - run: python src/run.py
+        - name: Fetch product infos
+          run: python src/run.py
 
+        - name: Archive product artifact
+          uses: actions/upload-artifact@v4
+          with:
+            name: all-products-report
+            path: data/all-products.csv
+            retention-days: 5
