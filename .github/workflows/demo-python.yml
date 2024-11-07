@@ -12,7 +12,7 @@ name: Auto-Running Python Demo
 #       # triggers the workflow every day at 9:18 UTC
 #       - cron: "18 9 * * *"
 
-on: [push]
+on: [create]
 
 jobs:
   report:

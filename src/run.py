@@ -53,7 +53,7 @@ def parse_product_infos(cat, url):
         pid = pid.group() if pid else None
 
         description = product.find('p').text.strip()
-        cpu = re.search(r'(\d+\s*x?\s*vCPU)', description, re.I)
+        cpu = re.search(r'(\d+\s*x?\s*.*?\s*(?:v?CPU)(?:\s*Cores?)?)', description, re.I)
         cpu = cpu.group(1) if cpu else None
 
 
