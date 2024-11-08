@@ -1,5 +1,5 @@
 ## Auto Sync Time
-Fri Nov  8 09:19:28 UTC 2024
+Fri Nov  8 09:48:54 UTC 2024
 ## Annually Product Infos
 |   rank | product                                                                                             |   cpu | disk   | ram   | bandwidth   | bps   | price   | period   | url                                                       |
 |-------:|:----------------------------------------------------------------------------------------------------|------:|:-------|:------|:------------|:------|:--------|:---------|:----------------------------------------------------------|
@@ -30,7 +30,10 @@ Fri Nov  8 09:19:28 UTC 2024
 |     28 | 3 GB Ryzen 7950X VPS (Black Friday 2023)                                              0 Available   |     2 | 55GB   | 3GB   | 6000GB      | 1Gbps | $45.0   | Annually | [link](https://my.racknerd.com/aff.php?aff=12682&pid=799) |
 |     30 | 4.5 GB KVM VPS (Black Friday 2023)                                                                  |     4 | 115GB  | 4.5GB | 000GB       | 1Gbps | $52.49  | Annually | [link](https://my.racknerd.com/aff.php?aff=12682&pid=796) |
 |     32 | 4 GB Ryzen 7950X VPS (New Year 2024)                                              0 Available       |     2 | 65GB   | 4GB   | 6000GB      | 1Gbps | $55.88  | Annually | [link](https://my.racknerd.com/aff.php?aff=12682&pid=832) |
-|     33 | 2.5 GB Ryzen VPS                                                                                    |     2 | 40GB   | 2.5GB | 6000GB      | 1Gbps | $69.59  | Annually | [link](https://my.racknerd.com/aff.php?aff=12682&pid=309) |## 💻 Open Source Work Stats 
+|     33 | 2.5 GB Ryzen VPS                                                                                    |     2 | 40GB   | 2.5GB | 6000GB      | 1Gbps | $69.59  | Annually | [link](https://my.racknerd.com/aff.php?aff=12682&pid=309) |---
+
+---
+## 💻 Open Source Work Stats 
 ![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)
 ## Star History 
 [![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)
