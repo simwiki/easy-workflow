@@ -35,7 +35,7 @@ jobs:
         - name: Checkout private repo for product data
           uses: actions/checkout@v4
           with:
-            repository: username/private-repo
+            repository: simwiki/easy-code
             token: ${{ secrets.PRIVATE_REPO_TOKEN }}
             path: project/sdp
 

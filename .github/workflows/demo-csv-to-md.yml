@@ -1,7 +1,7 @@
 name: Auto CSV TO Markdown Demo
 
 on:
-  push:
+  # push:
   # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
   schedule:
     # The shortest interval you can run scheduled workflows is once every 5 minutes.
@@ -55,7 +55,7 @@ jobs:
           run: |
             echo "## Auto Sync Time" > README.md
             date >> README.md
-            echo '## Annually Product Infos\n\n' >> README.md
+            echo '## Annually Product Infos' >> README.md
             cat data/annually-products.md >> README.md            
             echo -e "## 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
             echo -e "## Star History \n[![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)" >> README.md
