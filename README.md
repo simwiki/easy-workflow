@@ -1,6 +1,6 @@
 ## Auto Sync Time
-Fri Nov  8 05:34:28 UTC 2024
-## Annually Product Infos\n\n
+Fri Nov  8 09:19:28 UTC 2024
+## Annually Product Infos
 |   rank | product                                                                                             |   cpu | disk   | ram   | bandwidth   | bps   | price   | period   | url                                                       |
 |-------:|:----------------------------------------------------------------------------------------------------|------:|:-------|:------|:------------|:------|:--------|:---------|:----------------------------------------------------------|
 |      1 | 768 MB KVM VPS (Black Friday 2023)                                                                  |     1 | 15GB   | 768MB | 1000GB      | 1Gbps | $10.18  | Annually | [link](https://my.racknerd.com/aff.php?aff=12682&pid=792) |
