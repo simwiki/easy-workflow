@@ -47,6 +47,9 @@ jobs:
             ls -l
             python project/sdp/src/run.py
             ls -l data
+            ls -l project
+            ls -l project/sdp/
+            ls -l project/sdp/src
           working-directory: project/sdp
 
         - name: Generate report and update README
@@ -54,8 +57,9 @@ jobs:
             pwd
             ls -l
             ls -l data
-            ls -l project
             ls -l src
+            ls -l project
+            ls -l project/sdp/
             ls -l project/sdp/src
             python project/sdp/src/generate_report.py --csv_path data/all-products.csv
 
