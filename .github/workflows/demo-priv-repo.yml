@@ -43,25 +43,13 @@ jobs:
 
         - name: Fetch product infos
           run: |
-            pwd
-            ls -l
             python project/sdp/src/run.py
-            ls -l data
-            ls -l project
-            ls -l project/sdp/
-            ls -l project/sdp/src
-          working-directory: project/sdp
+          working-directory: vpsrn
 
         - name: Generate report and update README
           run: |
-            pwd
-            ls -l
-            ls -l data
-            ls -l src
-            ls -l project
-            ls -l project/sdp/
-            ls -l project/sdp/src
-            python project/sdp/src/generate_report.py --csv_path data/all-products.csv
+            python vpsrn/src/generate_report.py --csv_path data/all-products.csv
+          working-directory: vpsrn
 
         - name: Rename CSV with unique suffix
           id: rename_csv
@@ -73,9 +61,11 @@ jobs:
             mv data/all-products.csv $new_filename
             # echo "::set-output name=csv_path::$new_filename"
             echo "csv_path=$new_filename" >> "$GITHUB_OUTPUT"
+          working-directory: vpsrn
 
         - name: Copy renamed CSV to original path
           run: cp ${{ steps.rename_csv.outputs.csv_path }} data/all-products.csv
+          working-directory: vpsrn
 
         - name: Update README with Markdown preview
           run: |
@@ -85,6 +75,7 @@ jobs:
             cat data/annually-products.md >> README.md            
             echo -e "## 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
             echo -e "## Star History \n[![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)" >> README.md
+          working-directory: vpsrn
 
         - name: Commit and push updates
           run: |
@@ -95,6 +86,7 @@ jobs:
             git push
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          working-directory: vpsrn
 
         - name: Archive markdown artifact
           uses: actions/upload-artifact@v4
