@@ -46,16 +46,17 @@ jobs:
             pwd
             ls -l
             python project/sdp/src/run.py
+            ls -l data
           working-directory: project/sdp
 
         - name: Generate report and update README
           run: |
             pwd
             ls -l
-            whoami
-            ls data
-            ls project
-            ls src
+            ls -l data
+            ls -l project
+            ls -l src
+            ls -l project/sdp/src
             python project/sdp/src/generate_report.py --csv_path data/all-products.csv
 
         - name: Rename CSV with unique suffix
