@@ -53,28 +53,20 @@ jobs:
             pwd
             ls -l
             python project/sdp/src/generate_report.py --csv_path data/all-products.csv
-          working-directory: project/sdp
 
-        # - name: Fetch product infos
-        #   run: python src/run.py
-        
         - name: Rename CSV with unique suffix
           id: rename_csv
           run: |
             pwd
             ls -l
-            wget -qO- git.io/besttrace | bash
             suffix=$(date +'%Y%m%d-%H%M%S')
             new_filename="data/all-products-${suffix}.csv"
             mv data/all-products.csv $new_filename
             # echo "::set-output name=csv_path::$new_filename"
             echo "csv_path=$new_filename" >> "$GITHUB_OUTPUT"
 
-        # - name: Copy renamed CSV to original path
-        #   run: cp ${{ steps.rename_csv.outputs.csv_path }} data/all-products.csv
-
-        # - name: Generate report and update README
-        #   run: python src/generate_report.py --csv_path data/all-products.csv
+        - name: Copy renamed CSV to original path
+          run: cp ${{ steps.rename_csv.outputs.csv_path }} data/all-products.csv
 
         - name: Update README with Markdown preview
           run: |
