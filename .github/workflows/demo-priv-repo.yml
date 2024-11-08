@@ -39,7 +39,7 @@ jobs:
           with:
             repository: simwiki/easy-code
             token: ${{ secrets.PRIVATE_REPO_TOKEN }}
-            path: project/sdp
+            path: vpsrn
 
         - name: Fetch product infos
           run: |
