@@ -69,6 +69,7 @@ jobs:
 
         - name: Update README with Markdown preview
           run: |
+            mv vpsrn/${{ steps.rename_csv.outputs.csv_path }} data
             echo "## Auto Sync Time" > README.md
             date >> README.md
             echo '## Annually Product Infos' >> README.md
