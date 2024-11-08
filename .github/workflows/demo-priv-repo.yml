@@ -1,4 +1,4 @@
-name: Auto Priv Repo Demo
+name: Access Priv Repo Code Demo
 
 on:
   push:
@@ -73,8 +73,9 @@ jobs:
             echo "## Auto Sync Time" > README.md
             date >> README.md
             echo '## Annually Product Infos' >> README.md
-            cat vpsrn/data/annually-products.md >> README.md            
-            echo -e "## 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
+            cat vpsrn/data/annually-products.md >> README.md   
+            echo "---" >> README.md         
+            echo -e "\n---\n## 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
             echo -e "## Star History \n[![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)" >> README.md
 
         - name: Commit and push updates
@@ -90,6 +91,6 @@ jobs:
         - name: Archive markdown artifact
           uses: actions/upload-artifact@v4
           with:
-            name: all-products-markdown
-            path: data/all-products.md
+            name: annually-products-markdown
+            path: vpsrn/data/annually-products.md
             retention-days: 5
