@@ -45,12 +45,13 @@ jobs:
           run: |
             pwd
             ls -l
+            ls -l ../data
             python project/sdp/src/run.py --data_dir ../data
           working-directory: vpsrn
 
         - name: Generate report and update README
           run: |
-            python project/sdp/src/generate_report.py --csv_path data/all-products.csv
+            python project/sdp/src/generate_report.py --data_dir ../data
           working-directory: vpsrn
 
         - name: Rename CSV with unique suffix
@@ -58,23 +59,25 @@ jobs:
           run: |
             pwd
             ls -l
+            ls -l data
             suffix=$(date +'%Y%m%d-%H%M%S')
             new_filename="data/all-products-${suffix}.csv"
-            mv data/all-products.csv $new_filename
+            cp data/all-products.csv $new_filename
             echo "csv_path=$new_filename" >> "$GITHUB_OUTPUT"
-          working-directory: vpsrn
+            ls -l
 
         - name: Copy renamed CSV to original path
-          run: cp ${{ steps.rename_csv.outputs.csv_path }} data/all-products.csv
-          working-directory: vpsrn
+          run: |
+            pwd
+            cp ${{ steps.rename_csv.outputs.csv_path }} data/all-products-test.csv
+            ls -l
 
         - name: Update README with Markdown preview
           run: |
-            mv vpsrn/${{ steps.rename_csv.outputs.csv_path }} data
             echo "## Auto Sync Time" > README.md
             date >> README.md
             echo '## Annually Product Infos' >> README.md
-            cat vpsrn/data/annually-products.md >> README.md   
+            cat data/annually-products.md >> README.md   
             echo "---" >> README.md         
             echo -e "\n---\n## 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
             echo -e "## Star History \n[![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)" >> README.md
@@ -83,7 +86,7 @@ jobs:
           run: |
             git config --local user.name "github-actions[bot]"
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/all-products.csv README.md
+            git add data/all-products.csv data/annually-products.md README.md
             git commit -m "[Bot] Update product report with latest data"
             git push
           env:
