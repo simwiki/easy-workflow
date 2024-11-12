@@ -1,5 +1,5 @@
 ## Auto Sync Time
-Tue Nov 12 08:59:12 UTC 2024
+Tue Nov 12 09:17:48 UTC 2024
 ## Annually Product Infos
 <div style="overflow-x:auto;">
 <table>
@@ -31,7 +31,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=792">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>2</td>
@@ -61,7 +61,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=875">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>4</td>
@@ -76,7 +76,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=826">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>5</td>
@@ -106,7 +106,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=793">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>7</td>
@@ -121,7 +121,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=827">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>8</td>
@@ -151,7 +151,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=876">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>10</td>
@@ -166,7 +166,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=830">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>11</td>
@@ -181,7 +181,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=797">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>12</td>
@@ -196,7 +196,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=570">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>13</td>
@@ -241,7 +241,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=794">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>16</td>
@@ -256,7 +256,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=877">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>17</td>
@@ -271,7 +271,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=828">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>18</td>
@@ -286,7 +286,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=798">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>19</td>
@@ -301,7 +301,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=831">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>20</td>
@@ -316,7 +316,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=308">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>21</td>
@@ -331,7 +331,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=878">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>22</td>
@@ -346,7 +346,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=829">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>23</td>
@@ -361,7 +361,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=795">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>24</td>
@@ -391,22 +391,22 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=799">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>26</td>
     <td nowrap>4core</td>
     <td nowrap>115GB</td>
     <td nowrap>4.5GB</td>
-    <td nowrap>000GB</td>
+    <td nowrap>10000GB</td>
     <td nowrap>1Gbps</td>
     <td nowrap>$52.49</td>
-    <td nowrap><b>84.59</b></td>
+    <td nowrap><b>95.44</b></td>
     <td nowrap>4.5 GB KVM VPS (Black Friday 2023)</td>
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=796">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>27</td>
@@ -421,7 +421,7 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=832">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
   <tr>
     <td nowrap>28</td>
@@ -436,12 +436,14 @@ Tue Nov 12 08:59:12 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=309">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-11-12 08:59:11</td>
+    <td nowrap>2024-11-12 09:17:47</td>
   </tr>
 </table>
 </div>
 
- :+1: [All annually vps lists](data/annually-products.md)
+
+> [!TIP]
+> :+1: [All annually vps lists](data/annually-products.md)
 
 
 ---
