@@ -11,8 +11,9 @@ on:
     # Every 20 minutes.
     # - cron: '*/20 * * * *'
     # triggers the workflow every day at 5:20 UTC
-    - cron: "20 5 * * *"
-
+    # - cron: "20 5 * * *"
+    # triggers the workflow at minute 20 past every 7th hour. https://crontab.guru/
+    - cron: "20 */7 * * *"
 
 jobs:
   report:
@@ -78,7 +79,7 @@ jobs:
             date >> README.md
             echo '## Annually Product Infos' >> README.md
             cat data/annually-products.md >> README.md   
-            echo "---" >> README.md         
+            # echo "---" >> README.md         
             echo -e "\n---\n## 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
             echo -e "## Star History \n[![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)" >> README.md
 
