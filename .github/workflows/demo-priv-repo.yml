@@ -79,7 +79,7 @@ jobs:
             date >> README.md
             echo '## Annually Product Infos' >> README.md
             cat data/annually-products.md >> README.md   
-            echo -e "\n :+1: [All annually vps lists](data/annually-products.md)\n" >> README.md         
+            echo -e "\n\n :+1: [All annually vps lists](data/annually-products.md)\n" >> README.md         
             echo -e "\n---\n## 💻 Open Source Work Stats \n![github stats](https://github-readme-stats.vercel.app/api?username=simwiki&show_icons=true)" >> README.md
             echo -e "## Star History \n[![Star History Chart](https://api.star-history.com/svg?repos=simwiki/easy-workflow&type=Date)](https://star-history.com/#simwiki/easy-workflow)" >> README.md
 
