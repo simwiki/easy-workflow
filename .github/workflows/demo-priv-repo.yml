@@ -98,5 +98,5 @@ jobs:
           uses: actions/upload-artifact@v4
           with:
             name: annually-products-markdown
-            path: vpsrn/data/annually-products.md
+            path: data/all-products.csv data/annually-products.md
             retention-days: 5
