@@ -1,5 +1,5 @@
 ## Auto Sync Time
-Mon Dec 23 14:35:35 UTC 2024
+Mon Dec 23 21:30:41 UTC 2024
 ## Annually Product Infos
 <div style="overflow-x:auto;">
 <table>
@@ -61,7 +61,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=879">link</a></td>
     <td nowrap>2024-11-18 21:32:59</td>
-    <td nowrap>2024-12-23 14:35:34</td>
+    <td nowrap>2024-12-23 21:30:41</td>
   </tr>
   <tr>
     <td nowrap>4</td>
@@ -81,6 +81,21 @@ Mon Dec 23 14:35:35 UTC 2024
   <tr>
     <td nowrap>5</td>
     <td nowrap>1core</td>
+    <td nowrap>24GB</td>
+    <td nowrap>1GB</td>
+    <td nowrap>2000GB</td>
+    <td nowrap>1Gbps</td>
+    <td nowrap>$11.29</td>
+    <td nowrap>77.06</td>
+    <td nowrap>1 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>Annually</td>
+    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=903">link</a></td>
+    <td nowrap>2024-12-23 21:30:41</td>
+    <td nowrap>2024-12-23 21:30:41</td>
+  </tr>
+  <tr>
+    <td nowrap>6</td>
+    <td nowrap>1core</td>
     <td nowrap>21GB</td>
     <td nowrap>1GB</td>
     <td nowrap>1500GB</td>
@@ -94,7 +109,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>6</td>
+    <td nowrap>7</td>
     <td nowrap>1core</td>
     <td nowrap>25GB</td>
     <td nowrap>1.5GB</td>
@@ -109,7 +124,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap></td>
   </tr>
   <tr>
-    <td nowrap>7</td>
+    <td nowrap>8</td>
     <td nowrap>1core</td>
     <td nowrap>30GB</td>
     <td nowrap>2GB</td>
@@ -124,7 +139,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>8</td>
+    <td nowrap>9</td>
     <td nowrap>1core</td>
     <td nowrap>35GB</td>
     <td nowrap>2GB</td>
@@ -139,7 +154,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>9</td>
+    <td nowrap>10</td>
     <td nowrap>1core</td>
     <td nowrap>25GB</td>
     <td nowrap>2GB</td>
@@ -154,7 +169,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>9</td>
+    <td nowrap>10</td>
     <td nowrap>1core</td>
     <td nowrap>20GB</td>
     <td nowrap>1GB</td>
@@ -169,7 +184,22 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap></td>
   </tr>
   <tr>
-    <td nowrap>11</td>
+    <td nowrap>12</td>
+    <td nowrap>1core</td>
+    <td nowrap>40GB</td>
+    <td nowrap>2GB</td>
+    <td nowrap>3500GB</td>
+    <td nowrap>1Gbps</td>
+    <td nowrap>$18.29</td>
+    <td nowrap>75.41</td>
+    <td nowrap>2 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>Annually</td>
+    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=904">link</a></td>
+    <td nowrap>2024-12-23 21:30:41</td>
+    <td nowrap>2024-12-23 21:30:41</td>
+  </tr>
+  <tr>
+    <td nowrap>13</td>
     <td nowrap>1core</td>
     <td nowrap>25GB</td>
     <td nowrap>1.2GB</td>
@@ -184,7 +214,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>12</td>
+    <td nowrap>14</td>
     <td nowrap>2core</td>
     <td nowrap>40GB</td>
     <td nowrap>2.5GB</td>
@@ -196,10 +226,10 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=880">link</a></td>
     <td nowrap>2024-11-18 21:32:59</td>
-    <td nowrap>2024-12-23 14:35:34</td>
+    <td nowrap>2024-12-23 21:30:41</td>
   </tr>
   <tr>
-    <td nowrap>13</td>
+    <td nowrap>15</td>
     <td nowrap>1core</td>
     <td nowrap>30GB</td>
     <td nowrap>1.5GB</td>
@@ -214,7 +244,22 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>14</td>
+    <td nowrap>16</td>
+    <td nowrap>1core</td>
+    <td nowrap>30GB</td>
+    <td nowrap>512MB</td>
+    <td nowrap>500GB</td>
+    <td nowrap>1Gbps</td>
+    <td nowrap>$22.99</td>
+    <td nowrap>11.22</td>
+    <td nowrap>KVM-512MB</td>
+    <td nowrap>Annually</td>
+    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=1">link</a></td>
+    <td nowrap>2024-12-06 02:12:27</td>
+    <td nowrap>2024-12-23 21:30:41</td>
+  </tr>
+  <tr>
+    <td nowrap>16</td>
     <td nowrap>1core</td>
     <td nowrap>15GB</td>
     <td nowrap>512MB</td>
@@ -229,22 +274,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-12-05 21:33:37</td>
   </tr>
   <tr>
-    <td nowrap>14</td>
-    <td nowrap>1core</td>
-    <td nowrap>30GB</td>
-    <td nowrap>512MB</td>
-    <td nowrap>500GB</td>
-    <td nowrap>1Gbps</td>
-    <td nowrap>$22.99</td>
-    <td nowrap>11.22</td>
-    <td nowrap>KVM-512MB</td>
-    <td nowrap>Annually</td>
-    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=1">link</a></td>
-    <td nowrap>2024-12-06 02:12:27</td>
-    <td nowrap>2024-12-23 14:35:34</td>
-  </tr>
-  <tr>
-    <td nowrap>16</td>
+    <td nowrap>18</td>
     <td nowrap>2core</td>
     <td nowrap>38GB</td>
     <td nowrap>2.5GB</td>
@@ -259,7 +289,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap></td>
   </tr>
   <tr>
-    <td nowrap>17</td>
+    <td nowrap>19</td>
     <td nowrap>1core</td>
     <td nowrap>30GB</td>
     <td nowrap>2GB</td>
@@ -274,7 +304,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap></td>
   </tr>
   <tr>
-    <td nowrap>18</td>
+    <td nowrap>20</td>
     <td nowrap>2core</td>
     <td nowrap>50GB</td>
     <td nowrap>2.5GB</td>
@@ -289,7 +319,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>19</td>
+    <td nowrap>21</td>
     <td nowrap>2core</td>
     <td nowrap>40GB</td>
     <td nowrap>3GB</td>
@@ -304,7 +334,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>20</td>
+    <td nowrap>22</td>
     <td nowrap>2core</td>
     <td nowrap>60GB</td>
     <td nowrap>3GB</td>
@@ -316,10 +346,10 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=881">link</a></td>
     <td nowrap>2024-11-18 21:32:59</td>
-    <td nowrap>2024-12-23 14:35:34</td>
+    <td nowrap>2024-12-23 21:30:41</td>
   </tr>
   <tr>
-    <td nowrap>21</td>
+    <td nowrap>23</td>
     <td nowrap>2core</td>
     <td nowrap>45GB</td>
     <td nowrap>3GB</td>
@@ -334,7 +364,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>22</td>
+    <td nowrap>24</td>
     <td nowrap>2core</td>
     <td nowrap>40GB</td>
     <td nowrap>2GB</td>
@@ -349,7 +379,22 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>23</td>
+    <td nowrap>25</td>
+    <td nowrap>2core</td>
+    <td nowrap>65GB</td>
+    <td nowrap>3.5GB</td>
+    <td nowrap>7000GB</td>
+    <td nowrap>1Gbps</td>
+    <td nowrap>$32.49</td>
+    <td nowrap>74.5</td>
+    <td nowrap>3.5 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>Annually</td>
+    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=905">link</a></td>
+    <td nowrap>2024-12-23 21:30:41</td>
+    <td nowrap>2024-12-23 21:30:41</td>
+  </tr>
+  <tr>
+    <td nowrap>26</td>
     <td nowrap>2core</td>
     <td nowrap>38GB</td>
     <td nowrap>2.5GB</td>
@@ -364,7 +409,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>24</td>
+    <td nowrap>27</td>
     <td nowrap>1core</td>
     <td nowrap>22GB</td>
     <td nowrap>1.5GB</td>
@@ -376,10 +421,10 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=308">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-12-23 14:35:34</td>
+    <td nowrap>2024-12-23 21:30:41</td>
   </tr>
   <tr>
-    <td nowrap>25</td>
+    <td nowrap>28</td>
     <td nowrap>3core</td>
     <td nowrap>50GB</td>
     <td nowrap>4GB</td>
@@ -394,7 +439,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>26</td>
+    <td nowrap>29</td>
     <td nowrap>2core</td>
     <td nowrap>60GB</td>
     <td nowrap>4GB</td>
@@ -409,7 +454,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>27</td>
+    <td nowrap>30</td>
     <td nowrap>2core</td>
     <td nowrap>80GB</td>
     <td nowrap>4GB</td>
@@ -424,7 +469,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>28</td>
+    <td nowrap>31</td>
     <td nowrap>3core</td>
     <td nowrap>100GB</td>
     <td nowrap>4.5GB</td>
@@ -436,10 +481,25 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=882">link</a></td>
     <td nowrap>2024-11-18 21:32:59</td>
-    <td nowrap>2024-12-23 14:35:34</td>
+    <td nowrap>2024-12-23 21:30:41</td>
   </tr>
   <tr>
-    <td nowrap>29</td>
+    <td nowrap>32</td>
+    <td nowrap>3core</td>
+    <td nowrap>105GB</td>
+    <td nowrap>4GB</td>
+    <td nowrap>9000GB</td>
+    <td nowrap>1Gbps</td>
+    <td nowrap>$43.88</td>
+    <td nowrap>75.88</td>
+    <td nowrap>4 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>Annually</td>
+    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=906">link</a></td>
+    <td nowrap>2024-12-23 21:30:41</td>
+    <td nowrap>2024-12-23 21:30:41</td>
+  </tr>
+  <tr>
+    <td nowrap>33</td>
     <td nowrap>2core</td>
     <td nowrap>50GB</td>
     <td nowrap>4GB</td>
@@ -454,7 +514,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap></td>
   </tr>
   <tr>
-    <td nowrap>30</td>
+    <td nowrap>34</td>
     <td nowrap>2core</td>
     <td nowrap>55GB</td>
     <td nowrap>3GB</td>
@@ -469,7 +529,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>31</td>
+    <td nowrap>35</td>
     <td nowrap>4core</td>
     <td nowrap>115GB</td>
     <td nowrap>4.5GB</td>
@@ -484,7 +544,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>32</td>
+    <td nowrap>36</td>
     <td nowrap>2core</td>
     <td nowrap>65GB</td>
     <td nowrap>4GB</td>
@@ -499,7 +559,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>2024-11-18 14:39:52</td>
   </tr>
   <tr>
-    <td nowrap>33</td>
+    <td nowrap>37</td>
     <td nowrap>4core</td>
     <td nowrap>130GB</td>
     <td nowrap>5GB</td>
@@ -511,10 +571,25 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=883">link</a></td>
     <td nowrap>2024-11-18 21:32:59</td>
-    <td nowrap>2024-12-23 14:35:34</td>
+    <td nowrap>2024-12-23 21:30:41</td>
   </tr>
   <tr>
-    <td nowrap>34</td>
+    <td nowrap>38</td>
+    <td nowrap>4core</td>
+    <td nowrap>140GB</td>
+    <td nowrap>6GB</td>
+    <td nowrap>12000GB</td>
+    <td nowrap>1Gbps</td>
+    <td nowrap>$59.99</td>
+    <td nowrap>77.77</td>
+    <td nowrap>6 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>Annually</td>
+    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=907">link</a></td>
+    <td nowrap>2024-12-23 21:30:41</td>
+    <td nowrap>2024-12-23 21:30:41</td>
+  </tr>
+  <tr>
+    <td nowrap>39</td>
     <td nowrap>2core</td>
     <td nowrap>40GB</td>
     <td nowrap>2.5GB</td>
@@ -526,7 +601,7 @@ Mon Dec 23 14:35:35 UTC 2024
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=309">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2024-12-23 14:35:34</td>
+    <td nowrap>2024-12-23 21:30:41</td>
   </tr>
 </table>
 </div>
