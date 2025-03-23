@@ -91,7 +91,7 @@ jobs:
             git status
             git log --pretty=oneline | head -n 10
             git config --local user.name "simwiki"
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.email "xk_wang@outlook.com"
             # git config --local user.name "github-actions[bot]"
             # git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git add data/all-products.csv data/annually-products.md README.md
