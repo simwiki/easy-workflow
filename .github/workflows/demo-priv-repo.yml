@@ -12,8 +12,8 @@ on:
     # - cron: '*/20 * * * *'
     # triggers the workflow every day at 5:20 UTC
     # - cron: "20 5 * * *"
-    # triggers the workflow at minute 20 past every 7th hour. https://crontab.guru/
-    - cron: "20 */7 * * *"
+    # triggers the workflow at minute 15 past every 7th hour. https://crontab.guru/
+    - cron: "15 */7 * * *"
 
 jobs:
   report:
@@ -106,3 +106,4 @@ jobs:
             name: annually-products-markdown
             path: data/all-products.csv data/annually-products.md
             retention-days: 5
+
