@@ -43,7 +43,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=923">link</a></td>
     <td nowrap>2025-11-17 21:31:10</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>3</td>
@@ -129,11 +129,11 @@
     <td nowrap>1Gbps</td>
     <td nowrap>$11.29</td>
     <td nowrap>72.29</td>
-    <td nowrap>1 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>1 GB KVM VPS (New Year Special)</td>
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=903">link</a></td>
     <td nowrap>2024-12-23 21:30:41</td>
-    <td nowrap>2025-06-21 14:38:40</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>9</td>
@@ -198,21 +198,6 @@
   <tr>
     <td nowrap>13</td>
     <td nowrap>2core</td>
-    <td nowrap>30GB</td>
-    <td nowrap>2GB</td>
-    <td nowrap>4000GB</td>
-    <td nowrap>1Gbps</td>
-    <td nowrap>$17.66</td>
-    <td nowrap><b>84.79</b></td>
-    <td nowrap>2 GB KVM VPS Special Deal</td>
-    <td nowrap>Annually</td>
-    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=913">link</a></td>
-    <td nowrap>2025-05-14 21:29:49</td>
-    <td nowrap>2025-06-21 14:38:40</td>
-  </tr>
-  <tr>
-    <td nowrap>13</td>
-    <td nowrap>2core</td>
     <td nowrap>35GB</td>
     <td nowrap>2GB</td>
     <td nowrap>5000GB</td>
@@ -224,6 +209,21 @@
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=918">link</a></td>
     <td nowrap>2025-11-10 15:05:16</td>
     <td nowrap>2025-11-17 14:36:00</td>
+  </tr>
+  <tr>
+    <td nowrap>13</td>
+    <td nowrap>2core</td>
+    <td nowrap>30GB</td>
+    <td nowrap>2GB</td>
+    <td nowrap>4000GB</td>
+    <td nowrap>1Gbps</td>
+    <td nowrap>$17.66</td>
+    <td nowrap><b>84.79</b></td>
+    <td nowrap>2 GB KVM VPS Special Deal</td>
+    <td nowrap>Annually</td>
+    <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=913">link</a></td>
+    <td nowrap>2025-05-14 21:29:49</td>
+    <td nowrap>2025-06-21 14:38:40</td>
   </tr>
   <tr>
     <td nowrap>15</td>
@@ -264,11 +264,11 @@
     <td nowrap>1Gbps</td>
     <td nowrap>$18.29</td>
     <td nowrap>70.74</td>
-    <td nowrap>2 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>2 GB KVM VPS (New Year Special)</td>
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=904">link</a></td>
     <td nowrap>2024-12-23 21:30:41</td>
-    <td nowrap>2025-06-21 14:38:40</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>18</td>
@@ -283,7 +283,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=924">link</a></td>
     <td nowrap>2025-11-17 21:31:10</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>19</td>
@@ -343,7 +343,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=1">link</a></td>
     <td nowrap>2024-12-06 02:12:27</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>22</td>
@@ -508,7 +508,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=925">link</a></td>
     <td nowrap>2025-11-17 21:31:10</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>34</td>
@@ -519,11 +519,11 @@
     <td nowrap>1Gbps</td>
     <td nowrap>$32.49</td>
     <td nowrap>69.89</td>
-    <td nowrap>3.5 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>3.5 GB KVM VPS (New Year Special)</td>
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=905">link</a></td>
     <td nowrap>2024-12-23 21:30:41</td>
-    <td nowrap>2025-06-21 14:38:40</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>35</td>
@@ -553,7 +553,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=308">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>37</td>
@@ -639,11 +639,11 @@
     <td nowrap>1Gbps</td>
     <td nowrap>$43.88</td>
     <td nowrap>71.19</td>
-    <td nowrap>4 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>4 GB KVM VPS (New Year Special)</td>
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=906">link</a></td>
     <td nowrap>2024-12-23 21:30:41</td>
-    <td nowrap>2025-06-21 14:38:40</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>43</td>
@@ -673,7 +673,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=926">link</a></td>
     <td nowrap>2025-11-17 21:31:10</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>45</td>
@@ -759,11 +759,11 @@
     <td nowrap>1Gbps</td>
     <td nowrap>$59.99</td>
     <td nowrap>72.96</td>
-    <td nowrap>6 GB KVM VPS (New Year 2025)</td>
+    <td nowrap>6 GB KVM VPS (New Year Special)</td>
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=907">link</a></td>
     <td nowrap>2024-12-23 21:30:41</td>
-    <td nowrap>2025-06-21 14:38:40</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>51</td>
@@ -778,7 +778,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=927">link</a></td>
     <td nowrap>2025-11-17 21:31:10</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
   <tr>
     <td nowrap>52</td>
@@ -793,7 +793,7 @@
     <td nowrap>Annually</td>
     <td nowrap><a href="https://my.racknerd.com/aff.php?aff=12682&pid=309">link</a></td>
     <td nowrap>2024-11-06 10:29:34</td>
-    <td nowrap>2026-01-07 14:41:34</td>
+    <td nowrap>2026-01-07 21:34:06</td>
   </tr>
 </table>
 </div>
